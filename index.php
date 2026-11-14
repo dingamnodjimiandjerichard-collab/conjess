@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="logo">C</div>
-<h1>CONJESS</h1>
+<h1>Confejesse-Ndjamena</h1>
 <p>Discute, partage, connecte-toi 💬✨</p>
 <a class="btn" href="login.php">Commencer 🚀</a>
 </body>
